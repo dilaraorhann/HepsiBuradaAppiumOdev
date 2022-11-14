@@ -1,4 +1,4 @@
-Qatar_Airway_MobileOtomasyon
+Qatar_Airway
 =====================
 
 Qatar_Airways
