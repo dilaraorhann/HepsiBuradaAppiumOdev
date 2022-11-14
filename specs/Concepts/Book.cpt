@@ -1,0 +1,31 @@
+Created by testinium on 14.11.2022
+
+This is a concept file with following syntax for each concept.
+# Alt menuden Book tabina gecis yapilir,seyahat tipi olarak One Way secilir
+* "com.m.qr:id/nav_menu_book" id'li elemente tikla
+* "//android.widget.LinearLayout[@content-desc='One-way']" xpath'li element gorunur olana kadar bekle
+* "//android.widget.LinearLayout[@content-desc='One-way']" xpath'li elemente tikla
+
+# Kalkis havaalani olarak <kalkisHavaalani>,varis havaalani olarak <varisHavaalani> secilir
+* "com.m.qr:id/rvmp_fragment_rtow_flight_selection_origin_holder" li element gorunur olana kadar bekle
+* "com.m.qr:id/rvmp_fragment_rtow_flight_selection_origin_holder" id'li elemente tikla
+* "com.m.qr:id/rvmp_fragment_ond_selection_filter_edittext" li element gorunur olana kadar bekle
+* "com.m.qr:id/rvmp_fragment_ond_selection_filter_edittext" id'li elemente <kalkisHavaalani> text degerini gonder
+* "//androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.LinearLayout" xpath'li elemente tikla
+* "com.m.qr:id/booking_activity_conversational_message" li element gorunur olana kadar bekle
+* "com.m.qr:id/rvmp_fragment_rtow_flight_selection_destination_holder" id'li elemente tikla
+* "com.m.qr:id/rvmp_fragment_ond_selection_filter_edittext" li element gorunur olana kadar bekle
+* "com.m.qr:id/rvmp_fragment_ond_selection_filter_edittext" id'li elemente <varisHavaalani> text degerini gonder
+* "//androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.LinearLayout" xpath'li elemente tikla
+
+# Bugunun tarihi+7 gun olarak bir gidis tarihi secilir,arama butonuna tiklanir
+* "com.m.qr:id/rvmp_fragment_rtow_flight_selection_departure_date_holder" id'li elemente tikla
+* "com.m.qr:id/fragment_calendar_selected_trip_length_text_view" li element gorunur olana kadar bekle
+* "//*[contains(@clickable,'true')]" li elementi al,bugun veya bugunden sonraki 7 gunden birine tikla
+* "com.m.qr:id/fragment_calendar_confirm_button" id'li elemente tikla
+* "com.m.qr:id/rvmp_booking_search_flights_button" li element gorunur olana kadar bekle
+
+# Arama alanina tiklanir,ucus secim ekraninin geldigi kontrol edilir
+* "com.m.qr:id/rvmp_booking_search_flights_button" id'li elemente tikla
+* "com.m.qr:id/rvmp_fare_message" li element gorunur olana kadar bekle
+* "com.m.qr:id/booking_activity_conversational_message" id'li element "Select your departure" text değerini içerdiğini kontrol et

@@ -1,0 +1,18 @@
+Created by testinium on 14.11.2022
+
+This is a concept file with following syntax for each concept.
+# Qatar airways uygulamasi acilir,uygulamanin acildigi kontrol edilir
+* "com.m.qr:id/skip_button" li element gorunur olana kadar bekle
+* "com.m.qr:id/skip_button" li elementin oldugu kontrol edilir
+
+# Karsilama ekrani skip secenegi ile gecilir
+* "com.m.qr:id/skip_button" id'li element varsa tikla
+* "com.m.qr:id/onboarding_skip_button" id'li element varsa tikla
+//* "com.m.qr:id/onboarding_skip_button" li element gorunur olana kadar bekle
+//* "com.m.qr:id/onboarding_skip_button" id'li elemente tikla
+* "com.m.qr:id/push_consent_allow" id'li element varsa tikla
+//* "com.m.qr:id/push_consent_allow" li element gorunur olana kadar bekle
+//* "com.m.qr:id/push_consent_allow" id'li elemente tikla
+* "com.m.qr:id/secondary_button" li element gorunur olana kadar bekle
+* "com.m.qr:id/secondary_button" id'li elemente tikla
+* "com.m.qr:id/nav_menu_book" li element gorunur olana kadar bekle
