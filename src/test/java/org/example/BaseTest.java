@@ -36,7 +36,7 @@ public class BaseTest {
                 appiumDriver = new AndroidDriver(url,desiredCapabilities);
 
             }else {
-                logger.info("İos testi basliyor.");
+                logger.info("Android testi basliyor.");
             }
 
         }

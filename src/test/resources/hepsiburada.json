@@ -1,0 +1,160 @@
+[
+  {
+    "key": "hepsiBuradaHomepage",
+    "androidValue": "com.pozitron.hepsiburada:id/image_message_of_day",
+    "androidType": "id"
+
+  },
+
+
+  {
+    "key": "Üye Ol Tab",
+    "androidValue": "com.pozitron.hepsiburada:id/account_menu_button",
+    "androidType": "id"
+
+  },
+
+
+  {
+
+    "key": "GirişYapArea",
+    "androidValue":"//android.view.ViewGroup[@content-desc=\"account_menu_button_0\"]/android.view.ViewGroup/android.widget.Button",
+    "androidType": "xpath"
+
+  },
+
+  {
+    "key": "E-posta adresi",
+    "androidValue": "txtEmail",
+    "androidType": "id"
+  },
+
+
+  {
+    "key": "DoğrulamaMaili",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[5]",
+    "androidType": "xpath"
+
+  },
+
+  {
+    "key": "SignUp Button",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[1]",
+    "androidType": "xpath"
+  },
+
+  {
+    "key": "LoginPage",
+    "androidValue": "txtUserName",
+    "androidType": "accessibility_id"
+
+  },
+
+  {
+
+    "key": "KategorilerimButton",
+    "androidValue": "//android.widget.FrameLayout[@content-desc=\"Kategorilerim\"]/android.widget.FrameLayout/android.widget.ImageView",
+    "androidType": "xpath"
+
+  },
+
+  {
+
+
+    "key": "KadınGiyimButton",
+    "androidValue": "//android.view.ViewGroup[@content-desc=\"insideMenuItem1-3\"]/androidx.cardview.widget.CardView/android.widget.ImageView",
+    "androidType": "id"
+
+
+  },
+
+
+  {
+    "key": "FiyatAralığıTab",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/androidx.appcompat.widget.LinearLayoutCompat/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/androidx.cardview.widget.CardView[3]/android.view.ViewGroup/android.widget.TextView",
+    "androidType": "xpath"
+
+
+  },
+
+
+  {
+    "key": "FiyatAralığı500-750",
+    "androidValue": " /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[6]/android.view.ViewGroup/android.widget.CheckBox   ",
+    "androidType": "xpath"
+  },
+
+
+  {
+
+    "key": "DeğerlendirmePuanıButton",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/androidx.appcompat.widget.LinearLayoutCompat/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/androidx.cardview.widget.CardView[4]/android.view.ViewGroup/android.widget.TextView",
+    "androidType": "xptah"
+
+  },
+
+
+  {
+
+    "key": "DeğerlendirmePuani4YildizveUzeri",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[1]/android.view.ViewGroup/android.widget.CheckBox",
+    "androidType": "xpath"
+
+  },
+
+
+  {
+    "key": "KaşeKabanÜrün",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/androidx.appcompat.widget.LinearLayoutCompat/androidx.recyclerview.widget.RecyclerView/androidx.cardview.widget.CardView[1]/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout[1]/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup/android.widget.ImageView",
+    "androidType": "xpath"
+
+
+  },
+  {
+    "key": "FavoriButton",
+    "androidValue": "com.pozitron.hepsiburada:id/tvContent",
+    "androidType": "id"
+  },
+
+  {
+
+    "key": "UygulaButton",
+    "androidValue": "com.pozitron.hepsiburada:id/btnFiltersApply",
+    "androidType": "id"
+
+  },
+
+  {
+    "key": "SepeteEkleButton",
+    "androidValue": "com.pozitron.hepsiburada:id/product_detail_add_to_cart_text",
+    "androidType": "id"
+
+  },
+
+
+  {
+
+    "key": "SepeteGitButton",
+    "androidValue": "com.pozitron.hepsiburada:id/goBasketTxt",
+    "androidType": "id"
+
+  },
+
+
+  {
+    "key": "AlisverisiTamamlaButton",
+    "androidValue": "continue_step_btn",
+    "androidType": "id"
+
+
+  },
+
+  {
+
+    "key": "OdemeEkrani",
+    "androidValue": "OdemeEkraniLogo",
+    "androidType": "id"
+
+  }
+
+]

@@ -1,0 +1,40 @@
+[
+
+
+  {
+    "key": "hepsiBuradaHomepage",
+    "androidValue": "com.pozitron.hepsiburada:id/image_message_of_day",
+    "androidType": "id"
+
+  },
+
+  {
+    "key": "GirişYapArea",
+    "androidValue":"//android.view.ViewGroup[@content-desc=\"account_menu_button_0\"]/android.view.ViewGroup/android.widget.Button",
+    "androidType": "xpath"
+
+  },
+
+
+  {
+    "key": "Üye Ol Tab",
+    "androidValue": "com.pozitron.hepsiburada:id/account_menu_button",
+    "androidType": "id"
+
+  },
+
+
+  {
+    "key": "E-posta adresi",
+    "androidValue": "txtEmail",
+    "androidType": "id"
+  },
+
+
+  {
+    "key": "DoğrulamaMaili",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[5]",
+    "androidType": "xpath"
+
+  }
+]

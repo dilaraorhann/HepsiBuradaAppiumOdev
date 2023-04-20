@@ -1,0 +1,11 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# HepsiBurada Başarılı Kategorilere Gitme
+
+* "KategorilerimButton" xpath'li elemente tikla
+* "KadınGiyimButton" id'li elemente tikla
+* "FiyatAralığıTab " xpath'li element gorunur olana kadar bekle
+* "FiyatAralığı500-750  " xpath'li elemente tikla
+* "DeğerlendirmePuanıButton" xpath'li element gorunur olana kadar bekle
+* "DeğerlendirmePuani4YildizveUzeri" xpath'li element gorunur olana kadar bekle

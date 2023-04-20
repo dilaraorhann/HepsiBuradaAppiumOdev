@@ -1,0 +1,43 @@
+[
+
+{
+  "key": "KaşeKabanÜrün",
+  "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/androidx.appcompat.widget.LinearLayoutCompat/androidx.recyclerview.widget.RecyclerView/androidx.cardview.widget.CardView[1]/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout[1]/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup/android.widget.ImageView",
+  "androidType": "xpath"
+
+
+},
+{
+"key": "FavoriButton",
+"androidValue": "com.pozitron.hepsiburada:id/tvContent",
+"androidType": "id"
+},
+
+{
+
+"key": "UygulaButton",
+"androidValue": "com.pozitron.hepsiburada:id/btnFiltersApply",
+"androidType": "id"
+
+},
+
+{
+"key": "SepeteEkleButton",
+"androidValue": "com.pozitron.hepsiburada:id/product_detail_add_to_cart_text",
+"androidType": "id"
+
+},
+
+
+{
+
+"key": "SepeteGitButton",
+"androidValue": "com.pozitron.hepsiburada:id/goBasketTxt",
+"androidType": "id"
+
+}
+
+  ]
+
+
+

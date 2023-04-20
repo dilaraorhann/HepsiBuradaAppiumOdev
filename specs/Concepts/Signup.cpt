@@ -1,0 +1,8 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# HepsiBurada Başarılı Signup
+* "HepsiburadaHomepage" id'li elemente tikla
+* "Hesabım" id'li elemente tikla
+* "E-postaAdresi" id'li elemente tikla
+* "DoğrulamaMaili" xpath'li element gorunur olana kadar bekle

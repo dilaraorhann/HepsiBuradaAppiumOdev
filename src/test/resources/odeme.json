@@ -1,0 +1,21 @@
+
+
+[
+
+{
+  "key": "AlisverisiTamamlaButton",
+  "androidValue": "continue_step_btn",
+  "androidType": "id"
+
+
+},
+
+{
+
+"key": "OdemeEkrani",
+"androidValue": "OdemeEkraniLogo",
+"androidType": "id"
+
+}
+
+]
